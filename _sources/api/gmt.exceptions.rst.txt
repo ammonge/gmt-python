@@ -1,0 +1,46 @@
+.. raw:: html
+
+    <div class="api-module">
+
+``gmt.exceptions``
+-----------------------------
+
+.. raw:: html
+
+    <hr>
+
+.. automodule:: gmt.exceptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+.. rubric:: Exceptions
+
+.. autosummary::
+  :toctree: ./
+
+  GMTCLibError
+
+  GMTCLibNoSessionError
+
+  GMTCLibNotFoundError
+
+  GMTError
+
+  GMTOSError
+
+
+
+
+.. raw:: html
+
+    </div>

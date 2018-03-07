@@ -1,0 +1,38 @@
+.. raw:: html
+
+    <div class="api-module">
+
+``gmt.datasets``
+---------------------------
+
+.. raw:: html
+
+    <hr>
+
+.. automodule:: gmt.datasets
+
+
+
+
+
+
+
+
+.. rubric:: Functions
+
+.. autosummary::
+  :toctree: ./
+
+  load_japan_quakes
+
+
+
+
+
+
+
+
+
+.. raw:: html
+
+    </div>
